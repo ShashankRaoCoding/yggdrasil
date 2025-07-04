@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>ShanksMakesStuff</title>
+      <link>https://shanksmakesstuff.xyz</link>
+      <description>Last 10 notes on ShanksMakesStuff</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>polygenic risk score</title>
+    <link>https://shanksmakesstuff.xyz/yggdrasil/polygenic-risk-score</link>
+    <guid>https://shanksmakesstuff.xyz/yggdrasil/polygenic-risk-score</guid>
+    <description>TLDR? A polygenic risk score (PRS) is a way to estimate an individual’s genetic predisposition to a certain trait or disease by combining the effects of many genetic variants across the genome.</description>
+    <pubDate>Fri, 04 Jul 2025 13:10:26 GMT</pubDate>
+  </item><item>
+    <title>VCF (Complete)</title>
+    <link>https://shanksmakesstuff.xyz/yggdrasil/VCF-(Complete)</link>
+    <guid>https://shanksmakesstuff.xyz/yggdrasil/VCF-(Complete)</guid>
+    <description>🧬 What is a VCF File? VCF stands for Variant Call Format.</description>
+    <pubDate>Fri, 04 Jul 2025 13:10:10 GMT</pubDate>
+  </item><item>
+    <title>REGENIE (Complete)</title>
+    <link>https://shanksmakesstuff.xyz/yggdrasil/REGENIE-(Complete)</link>
+    <guid>https://shanksmakesstuff.xyz/yggdrasil/REGENIE-(Complete)</guid>
+    <description>What it is Essentially, it is a tool that allows you to test GWAS signals/genetic instrument associations while accounting for ancestry.</description>
+    <pubDate>Fri, 04 Jul 2025 12:43:26 GMT</pubDate>
+  </item><item>
+    <title>What is Mendelian Randomisation</title>
+    <link>https://shanksmakesstuff.xyz/yggdrasil/What-is-Mendelian-Randomisation</link>
+    <guid>https://shanksmakesstuff.xyz/yggdrasil/What-is-Mendelian-Randomisation</guid>
+    <description> Video This video does a really good job explaining it. youtu.be/LoTgfGotaQ4 .</description>
+    <pubDate>Fri, 04 Jul 2025 11:25:06 GMT</pubDate>
+  </item><item>
+    <title>Python DataSci Libs</title>
+    <link>https://shanksmakesstuff.xyz/yggdrasil/Python-DataSci-Libs</link>
+    <guid>https://shanksmakesstuff.xyz/yggdrasil/Python-DataSci-Libs</guid>
+    <description>You should be familiar with: Pandas (Complete) (tables) Sea Born’s Data Visualisation Code (visualisation) Matplotlib (visualisation) .</description>
+    <pubDate>Fri, 04 Jul 2025 10:56:00 GMT</pubDate>
+  </item><item>
+    <title>bed file format</title>
+    <link>https://shanksmakesstuff.xyz/yggdrasil/bed-file-format</link>
+    <guid>https://shanksmakesstuff.xyz/yggdrasil/bed-file-format</guid>
+    <description>The .bed format is a binary file format that can be generated using Plink2.</description>
+    <pubDate>Fri, 04 Jul 2025 10:53:38 GMT</pubDate>
+  </item><item>
+    <title>PLINK (Complete)</title>
+    <link>https://shanksmakesstuff.xyz/yggdrasil/PLINK-(Complete)</link>
+    <guid>https://shanksmakesstuff.xyz/yggdrasil/PLINK-(Complete)</guid>
+    <description>For some useful PLINK Code, see Download PLINK 2 PLINK is a popular open-source genetic data analysis tool primarily used in genome-wide association studies (GWAS) and population genetics.</description>
+    <pubDate>Fri, 04 Jul 2025 10:53:36 GMT</pubDate>
+  </item><item>
+    <title>Piping File Contents to Ollama3</title>
+    <link>https://shanksmakesstuff.xyz/yggdrasil/Piping-File-Contents-to-Ollama3</link>
+    <guid>https://shanksmakesstuff.xyz/yggdrasil/Piping-File-Contents-to-Ollama3</guid>
+    <description>Use this code to pipe a file’s contents directly to llama3: Get-Content &quot;filepath&quot; | ollama run llama3 &quot;prompt&quot; .</description>
+    <pubDate>Thu, 26 Jun 2025 10:44:50 GMT</pubDate>
+  </item><item>
+    <title>Pandas Cheat Sheet (General Use)</title>
+    <link>https://shanksmakesstuff.xyz/yggdrasil/Pandas-Cheat-Sheet-(General-Use)</link>
+    <guid>https://shanksmakesstuff.xyz/yggdrasil/Pandas-Cheat-Sheet-(General-Use)</guid>
+    <description>1.</description>
+    <pubDate>Wed, 25 Jun 2025 08:59:40 GMT</pubDate>
+  </item><item>
+    <title>Sea Born&#039;s Data Visualisation Code</title>
+    <link>https://shanksmakesstuff.xyz/yggdrasil/Sea-Born's-Data-Visualisation-Code</link>
+    <guid>https://shanksmakesstuff.xyz/yggdrasil/Sea-Born's-Data-Visualisation-Code</guid>
+    <description>To import sea born, use import seaborn To plot a histogram, use seaborn.histplot(data = data, x=&quot;Name of Column with numerical value&quot;, hue=&quot;Name of y axis variable&quot;, binwidth = 2, multiple=&quot;stack&quot;) seaborn.histplot() takes data as a pandas table, and subsequent argument...</description>
+    <pubDate>Wed, 25 Jun 2025 08:55:18 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
