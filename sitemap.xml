@@ -1,12 +1,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>https://shanksmakesstuff.xyz/anime.js</loc>
+    <lastmod>2025-08-14T19:25:16.000Z</lastmod>
+  </url><url>
     <loc>https://shanksmakesstuff.xyz/</loc>
     <lastmod>2025-06-13T09:54:14.000Z</lastmod>
+  </url><url>
+    <loc>https://shanksmakesstuff.xyz/yggdrasil/Building-with-Go</loc>
+    <lastmod>2025-07-09T14:49:44.000Z</lastmod>
   </url><url>
     <loc>https://shanksmakesstuff.xyz/yggdrasil/Chemoproteogenomics</loc>
     <lastmod>2025-06-16T15:23:24.000Z</lastmod>
   </url><url>
     <loc>https://shanksmakesstuff.xyz/yggdrasil/Download-PLINK-2</loc>
     <lastmod>2025-06-24T14:17:48.000Z</lastmod>
+  </url><url>
+    <loc>https://shanksmakesstuff.xyz/yggdrasil/Go-Concurrency-Best-Practices</loc>
+    <lastmod>2025-07-09T12:31:14.000Z</lastmod>
+  </url><url>
+    <loc>https://shanksmakesstuff.xyz/yggdrasil/Goroutines</loc>
+    <lastmod>2025-07-09T13:46:14.000Z</lastmod>
   </url><url>
     <loc>https://shanksmakesstuff.xyz/yggdrasil/MAVE-Assays</loc>
     <lastmod>2025-06-16T15:14:22.000Z</lastmod>

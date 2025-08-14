@@ -6,6 +6,30 @@
       <description>Last 10 notes on ShanksMakesStuff</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>anime.js</title>
+    <link>https://shanksmakesstuff.xyz/anime.js</link>
+    <guid>https://shanksmakesstuff.xyz/anime.js</guid>
+    <description>This page explains stuff about anime.js. These are my personal notes.</description>
+    <pubDate>Thu, 14 Aug 2025 19:25:16 GMT</pubDate>
+  </item><item>
+    <title>Building with Go</title>
+    <link>https://shanksmakesstuff.xyz/yggdrasil/Building-with-Go</link>
+    <guid>https://shanksmakesstuff.xyz/yggdrasil/Building-with-Go</guid>
+    <description>This refers to compiling .go programs to .exe or other binary On Windows: go build main.go Compiles it and its dependencies If you would like to compile your entire project package go build Does that! If you would like to cross compile set GOOS=linux set GOOS=amd64 go build If you are on PowerShell:...</description>
+    <pubDate>Wed, 09 Jul 2025 14:49:44 GMT</pubDate>
+  </item><item>
+    <title>Goroutines</title>
+    <link>https://shanksmakesstuff.xyz/yggdrasil/Goroutines</link>
+    <guid>https://shanksmakesstuff.xyz/yggdrasil/Goroutines</guid>
+    <description>Goroutines allow concurrency in Go. Essentially, it tells Go that a function must be run asynchronously.</description>
+    <pubDate>Wed, 09 Jul 2025 13:46:14 GMT</pubDate>
+  </item><item>
+    <title>Go Concurrency Best Practices</title>
+    <link>https://shanksmakesstuff.xyz/yggdrasil/Go-Concurrency-Best-Practices</link>
+    <guid>https://shanksmakesstuff.xyz/yggdrasil/Go-Concurrency-Best-Practices</guid>
+    <description>Can you explain what’s wrong with this code? package main import ( &quot;fmt&quot; &quot;os&quot; &quot;path/filepath&quot; &quot;strings&quot; &quot;sync&quot; ) func main(){ var wg sync.WaitGroup root := &quot;path/to/your/directory&quot; err := filepath.Walk(root, func(path string, info os.FileIn...</description>
+    <pubDate>Wed, 09 Jul 2025 12:31:14 GMT</pubDate>
+  </item><item>
     <title>polygenic risk score</title>
     <link>https://shanksmakesstuff.xyz/yggdrasil/polygenic-risk-score</link>
     <guid>https://shanksmakesstuff.xyz/yggdrasil/polygenic-risk-score</guid>
@@ -41,30 +65,6 @@
     <guid>https://shanksmakesstuff.xyz/yggdrasil/bed-file-format</guid>
     <description>The .bed format is a binary file format that can be generated using Plink2.</description>
     <pubDate>Fri, 04 Jul 2025 10:53:38 GMT</pubDate>
-  </item><item>
-    <title>PLINK (Complete)</title>
-    <link>https://shanksmakesstuff.xyz/yggdrasil/PLINK-(Complete)</link>
-    <guid>https://shanksmakesstuff.xyz/yggdrasil/PLINK-(Complete)</guid>
-    <description>For some useful PLINK Code, see Download PLINK 2 PLINK is a popular open-source genetic data analysis tool primarily used in genome-wide association studies (GWAS) and population genetics.</description>
-    <pubDate>Fri, 04 Jul 2025 10:53:36 GMT</pubDate>
-  </item><item>
-    <title>Piping File Contents to Ollama3</title>
-    <link>https://shanksmakesstuff.xyz/yggdrasil/Piping-File-Contents-to-Ollama3</link>
-    <guid>https://shanksmakesstuff.xyz/yggdrasil/Piping-File-Contents-to-Ollama3</guid>
-    <description>Use this code to pipe a file’s contents directly to llama3: Get-Content &quot;filepath&quot; | ollama run llama3 &quot;prompt&quot; .</description>
-    <pubDate>Thu, 26 Jun 2025 10:44:50 GMT</pubDate>
-  </item><item>
-    <title>Pandas Cheat Sheet (General Use)</title>
-    <link>https://shanksmakesstuff.xyz/yggdrasil/Pandas-Cheat-Sheet-(General-Use)</link>
-    <guid>https://shanksmakesstuff.xyz/yggdrasil/Pandas-Cheat-Sheet-(General-Use)</guid>
-    <description>1.</description>
-    <pubDate>Wed, 25 Jun 2025 08:59:40 GMT</pubDate>
-  </item><item>
-    <title>Sea Born&#039;s Data Visualisation Code</title>
-    <link>https://shanksmakesstuff.xyz/yggdrasil/Sea-Born's-Data-Visualisation-Code</link>
-    <guid>https://shanksmakesstuff.xyz/yggdrasil/Sea-Born's-Data-Visualisation-Code</guid>
-    <description>To import sea born, use import seaborn To plot a histogram, use seaborn.histplot(data = data, x=&quot;Name of Column with numerical value&quot;, hue=&quot;Name of y axis variable&quot;, binwidth = 2, multiple=&quot;stack&quot;) seaborn.histplot() takes data as a pandas table, and subsequent argument...</description>
-    <pubDate>Wed, 25 Jun 2025 08:55:18 GMT</pubDate>
   </item>
     </channel>
   </rss>
