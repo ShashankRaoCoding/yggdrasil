@@ -1,9 +1,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://shanksmakesstuff.xyz/anime.js</loc>
-    <lastmod>2025-08-14T19:46:50.000Z</lastmod>
-  </url><url>
     <loc>https://shanksmakesstuff.xyz/</loc>
     <lastmod>2025-06-13T09:54:14.000Z</lastmod>
+  </url><url>
+    <loc>https://shanksmakesstuff.xyz/yggdrasil/About-anime.js</loc>
+    <lastmod>2025-08-14T20:03:20.000Z</lastmod>
   </url><url>
     <loc>https://shanksmakesstuff.xyz/yggdrasil/Building-with-Go</loc>
     <lastmod>2025-07-09T14:49:44.000Z</lastmod>
