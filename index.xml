@@ -6,65 +6,65 @@
       <description>Last 10 notes on ShanksMakesStuff</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>index</title>
+    <link>https://shanksmakesstuff.xyz/</link>
+    <guid>https://shanksmakesstuff.xyz/</guid>
+    <description> .left-sidebar { flex-direction: column; } .page-title { font-size: 1.70rem; overflow: hidden; } .explorer-content { max-width: 50%; } window.location.href = `shashankraocoding.github.io/yggdrasil/yggdrasil` .page-title { font-size: 1.70rem; } .</description>
+    <pubDate>Fri, 15 Aug 2025 11:01:18 GMT</pubDate>
+  </item><item>
     <title>About anime.js</title>
     <link>https://shanksmakesstuff.xyz/yggdrasil/About-anime.js</link>
     <guid>https://shanksmakesstuff.xyz/yggdrasil/About-anime.js</guid>
-    <description>Reload this page if the animations don’t work.</description>
-    <pubDate>Thu, 14 Aug 2025 21:50:00 GMT</pubDate>
-  </item><item>
-    <title>Building with Go</title>
-    <link>https://shanksmakesstuff.xyz/yggdrasil/Building-with-Go</link>
-    <guid>https://shanksmakesstuff.xyz/yggdrasil/Building-with-Go</guid>
-    <description>This refers to compiling .go programs to .exe or other binary On Windows: go build main.go Compiles it and its dependencies If you would like to compile your entire project package go build Does that! If you would like to cross compile set GOOS=linux set GOOS=amd64 go build If you are on PowerShell:...</description>
-    <pubDate>Wed, 09 Jul 2025 14:49:44 GMT</pubDate>
-  </item><item>
-    <title>Goroutines</title>
-    <link>https://shanksmakesstuff.xyz/yggdrasil/Goroutines</link>
-    <guid>https://shanksmakesstuff.xyz/yggdrasil/Goroutines</guid>
-    <description>Goroutines allow concurrency in Go. Essentially, it tells Go that a function must be run asynchronously.</description>
-    <pubDate>Wed, 09 Jul 2025 13:46:14 GMT</pubDate>
-  </item><item>
-    <title>Go Concurrency Best Practices</title>
-    <link>https://shanksmakesstuff.xyz/yggdrasil/Go-Concurrency-Best-Practices</link>
-    <guid>https://shanksmakesstuff.xyz/yggdrasil/Go-Concurrency-Best-Practices</guid>
-    <description>Can you explain what’s wrong with this code? package main import ( &quot;fmt&quot; &quot;os&quot; &quot;path/filepath&quot; &quot;strings&quot; &quot;sync&quot; ) func main(){ var wg sync.WaitGroup root := &quot;path/to/your/directory&quot; err := filepath.Walk(root, func(path string, info os.FileIn...</description>
-    <pubDate>Wed, 09 Jul 2025 12:31:14 GMT</pubDate>
-  </item><item>
-    <title>polygenic risk score</title>
-    <link>https://shanksmakesstuff.xyz/yggdrasil/polygenic-risk-score</link>
-    <guid>https://shanksmakesstuff.xyz/yggdrasil/polygenic-risk-score</guid>
-    <description>TLDR? A polygenic risk score (PRS) is a way to estimate an individual’s genetic predisposition to a certain trait or disease by combining the effects of many genetic variants across the genome.</description>
-    <pubDate>Fri, 04 Jul 2025 13:10:26 GMT</pubDate>
-  </item><item>
-    <title>VCF (Complete)</title>
-    <link>https://shanksmakesstuff.xyz/yggdrasil/VCF-(Complete)</link>
-    <guid>https://shanksmakesstuff.xyz/yggdrasil/VCF-(Complete)</guid>
-    <description>🧬 What is a VCF File? VCF stands for Variant Call Format.</description>
-    <pubDate>Fri, 04 Jul 2025 13:10:10 GMT</pubDate>
-  </item><item>
-    <title>REGENIE (Complete)</title>
-    <link>https://shanksmakesstuff.xyz/yggdrasil/REGENIE-(Complete)</link>
-    <guid>https://shanksmakesstuff.xyz/yggdrasil/REGENIE-(Complete)</guid>
-    <description>What it is Essentially, it is a tool that allows you to test GWAS signals/genetic instrument associations while accounting for ancestry.</description>
-    <pubDate>Fri, 04 Jul 2025 12:43:26 GMT</pubDate>
-  </item><item>
-    <title>What is Mendelian Randomisation</title>
-    <link>https://shanksmakesstuff.xyz/yggdrasil/What-is-Mendelian-Randomisation</link>
-    <guid>https://shanksmakesstuff.xyz/yggdrasil/What-is-Mendelian-Randomisation</guid>
-    <description> Video This video does a really good job explaining it. youtu.be/LoTgfGotaQ4 .</description>
-    <pubDate>Fri, 04 Jul 2025 11:25:06 GMT</pubDate>
-  </item><item>
-    <title>Python DataSci Libs</title>
-    <link>https://shanksmakesstuff.xyz/yggdrasil/Python-DataSci-Libs</link>
-    <guid>https://shanksmakesstuff.xyz/yggdrasil/Python-DataSci-Libs</guid>
-    <description>You should be familiar with: Pandas (Complete) (tables) Sea Born’s Data Visualisation Code (visualisation) Matplotlib (visualisation) .</description>
-    <pubDate>Fri, 04 Jul 2025 10:56:00 GMT</pubDate>
+    <description> .left-sidebar { flex-direction: column; } .page-title { font-size: 1.70rem; overflow: hidden; } .explorer-content { max-width: 50%; } Reload this page if the animations don&#039;t work.</description>
+    <pubDate>Fri, 15 Aug 2025 11:01:04 GMT</pubDate>
   </item><item>
     <title>bed file format</title>
     <link>https://shanksmakesstuff.xyz/yggdrasil/bed-file-format</link>
     <guid>https://shanksmakesstuff.xyz/yggdrasil/bed-file-format</guid>
-    <description>The .bed format is a binary file format that can be generated using Plink2.</description>
-    <pubDate>Fri, 04 Jul 2025 10:53:38 GMT</pubDate>
+    <description> .left-sidebar { flex-direction: column; } .page-title { font-size: 1.70rem; overflow: hidden; } .explorer-content { max-width: 50%; } The .bed format is a binary file format that can be generated using Plink2.</description>
+    <pubDate>Fri, 15 Aug 2025 11:00:52 GMT</pubDate>
+  </item><item>
+    <title>Building with Go</title>
+    <link>https://shanksmakesstuff.xyz/yggdrasil/Building-with-Go</link>
+    <guid>https://shanksmakesstuff.xyz/yggdrasil/Building-with-Go</guid>
+    <description> .left-sidebar { flex-direction: column; } .page-title { font-size: 1.70rem; overflow: hidden; } .explorer-content { max-width: 50%; } This refers to compiling .go programs to .exe or other binary On Windows: ```bash go build main.go ``` Compiles it and its dependencies If you would like to compile ...</description>
+    <pubDate>Fri, 15 Aug 2025 11:00:44 GMT</pubDate>
+  </item><item>
+    <title>Chemoproteogenomics</title>
+    <link>https://shanksmakesstuff.xyz/yggdrasil/Chemoproteogenomics</link>
+    <guid>https://shanksmakesstuff.xyz/yggdrasil/Chemoproteogenomics</guid>
+    <description> .left-sidebar { flex-direction: column; } .page-title { font-size: 1.70rem; overflow: hidden; } .explorer-content { max-width: 50%; } ##### Download Plink2 mkdir -p ~/bin &amp;&amp; source ~/.profile wget -P ~/bin/ s3.amazonaws.com/plink2-assets/plink2_linux_x86_64_latest.zip unzip ~/bin/plink2_lin...</description>
+    <pubDate>Fri, 15 Aug 2025 11:00:42 GMT</pubDate>
+  </item><item>
+    <title>Go Concurrency Best Practices</title>
+    <link>https://shanksmakesstuff.xyz/yggdrasil/Go-Concurrency-Best-Practices</link>
+    <guid>https://shanksmakesstuff.xyz/yggdrasil/Go-Concurrency-Best-Practices</guid>
+    <description> .left-sidebar { flex-direction: column; } .page-title { font-size: 1.70rem; overflow: hidden; } .explorer-content { max-width: 50%; } .left-sidebar { flex-direction: column; } .page-title { font-size: 1.70rem; overflow: hidden; } .explorer-content { max-width: 50%; } .left-sidebar { flex-direction:...</description>
+    <pubDate>Fri, 15 Aug 2025 11:00:38 GMT</pubDate>
+  </item><item>
+    <title>Goroutines</title>
+    <link>https://shanksmakesstuff.xyz/yggdrasil/Goroutines</link>
+    <guid>https://shanksmakesstuff.xyz/yggdrasil/Goroutines</guid>
+    <description> .left-sidebar { flex-direction: column; } .page-title { font-size: 1.70rem; overflow: hidden; } .explorer-content { max-width: 50%; } Goroutines allow concurrency in Go.</description>
+    <pubDate>Fri, 15 Aug 2025 11:00:34 GMT</pubDate>
+  </item><item>
+    <title>MAVE Assays</title>
+    <link>https://shanksmakesstuff.xyz/yggdrasil/MAVE-Assays</link>
+    <guid>https://shanksmakesstuff.xyz/yggdrasil/MAVE-Assays</guid>
+    <description> .left-sidebar { flex-direction: column; } .page-title { font-size: 1.70rem; overflow: hidden; } .explorer-content { max-width: 50%; } MAVE assays — short for **Multiplexed Assays for Variant Effect** — are experimental techniques used to **measure the functional impact of many genetic variants at o...</description>
+    <pubDate>Fri, 15 Aug 2025 11:00:34 GMT</pubDate>
+  </item><item>
+    <title>Pandas (Complete)</title>
+    <link>https://shanksmakesstuff.xyz/yggdrasil/Pandas-(Complete)</link>
+    <guid>https://shanksmakesstuff.xyz/yggdrasil/Pandas-(Complete)</guid>
+    <description> .left-sidebar { flex-direction: column; } .page-title { font-size: 1.70rem; overflow: hidden; } .explorer-content { max-width: 50%; } For quick syntax help, see [[Pandas Cheat Sheet (General Use)]].</description>
+    <pubDate>Fri, 15 Aug 2025 11:00:34 GMT</pubDate>
+  </item><item>
+    <title>PLINK (Complete)</title>
+    <link>https://shanksmakesstuff.xyz/yggdrasil/PLINK-(Complete)</link>
+    <guid>https://shanksmakesstuff.xyz/yggdrasil/PLINK-(Complete)</guid>
+    <description> .left-sidebar { flex-direction: column; } .page-title { font-size: 1.70rem; overflow: hidden; } .explorer-content { max-width: 50%; } ### **TLDR?** A **polygenic risk score (PRS)** is a way to estimate an individual’s genetic predisposition to a certain trait or disease by combining the effects of ...</description>
+    <pubDate>Fri, 15 Aug 2025 11:00:32 GMT</pubDate>
   </item>
     </channel>
   </rss>
